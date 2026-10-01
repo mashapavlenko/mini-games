@@ -41,7 +41,7 @@ git clone https://github.com/mashapavlenko/mini-games.git
 
 ## Демо
 
-[Открыть сайт](ссылка-на-GitHub-Pages)
+[Открыть сайт](https://mashapavlenko.github.io/mini-games/)
 
 ## Автор
 
